@@ -2,10 +2,8 @@ In order to run the code:
 
 1. Go to the Imagenet folder.
 2. Install the required Python libraries (from requirements.txt).
-
 3. Place all of the required models in step1_utils/models/ folder. For ImageNet, it will be: ImageNet_ADM.pt. 
 4. Run the main project.py python file, along with the parameters that you would like. The following arguments are available: 
-
 
 --dataset
 Name of the dataset to use. This must match the dataset name used in the model configuration YAML file located in step1_utils/models/. For imagenet, it would be "ImageNet". 
