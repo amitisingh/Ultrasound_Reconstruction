@@ -14,7 +14,7 @@ In order to run the code:
 
 
 --dataset
-Name of the dataset to use. This must match the dataset name used in the model configuration YAML file located in step1_utils/models/. For ultrasound, it would be set to 'ultrasound'. 
+Name of the dataset to use. This must match the dataset name used in the model configuration YAML file located in step1_utils/models/. It would need to be set to 'ultrasound'. 
 
 --out_path
 Directory where reconstructed output images will be saved. It will save to out_path/US/. 
