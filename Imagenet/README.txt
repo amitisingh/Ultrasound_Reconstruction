@@ -50,14 +50,7 @@ Group name inside the HDF5 .mat file where the BH sparse matrix is stored.
 --by_mat
 Path to the MATLAB .mat file containing the ultrasound measurement vector By.
 
---zeta
-Step size for the data-consistency gradient update in DPS.
-
---max_iters
-Number of conjugate-gradient iterations used in DDS when solving the normal equations.
-
-
-The following is an example command to run the pre-trained ultrasound model (which needs to be placed in the step1_utils/models/ folder), along with DPS as the posterior sampling method:
+The following is an example command to run the pre-trained ImageNet model (which needs to be placed in the step1_utils/models/ folder), along with DPS as the posterior sampling method:
 
 
     !python project.py \
