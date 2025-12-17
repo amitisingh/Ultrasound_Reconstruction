@@ -19,9 +19,6 @@ Name of the dataset to use. This must match the dataset name used in the model c
 --out_path
 Directory where reconstructed output images will be saved. It will save to out_path/US/. 
 
---sigma_y
-Measurement noise standard deviation
-
 --ps_type
 Posterior sampling method to use.
 Valid options: DPS or DDS.
