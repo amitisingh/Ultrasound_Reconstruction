@@ -2,9 +2,11 @@
 
 
 To run Ultrasound Reconstruction and ImageNet:
+
   Please read the README.txt in each of the folders for instructions on how to run the code. Ensure that BH.mat, By.mat (By_2.mat) are downloaded and the path is known (you will need this path to run both). 
 
 To run DDRM:
+
   Please clone the following repository, along with the instructions provided in the repository.
   https://github.com/Yuxin-Zhang-Jasmine/DRUS-v1/tree/main
 
