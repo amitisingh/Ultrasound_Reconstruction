@@ -1,9 +1,13 @@
 # Ultrasound_Reconstruction
 
+The main code is present in Ultrasound_reconstruction. This was built over HW4! 
 
 To run Ultrasound Reconstruction and ImageNet:
 
   Please read the README.txt in each of the folders for instructions on how to run the code. Ensure that BH.mat, By.mat (By_2.mat) are downloaded and the path is known (you will need this path to run both). 
+
+Drive link for BH, By, Model checkpoints: https://drive.google.com/drive/folders/15C9zi3s0SZHaBnCz-w4U0GCuAzbUSAdN?usp=sharing
+
 
 To run DDRM:
 
